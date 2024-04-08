@@ -1,4 +1,6 @@
-{  "keys": [    {
+{
+  "keys": [
+    {
     "kty": "EC",
     "use": "sig",
     "crv": "P-256",
@@ -6,7 +8,8 @@
     "x": "OXuXNJ3j5Vu38s3bek1iTX2OxNqCqhOMdLE-nXY8Tts",
     "y": "DX0kBJtymUx_tMS42B7HQHJXcQzgWPJiIW4N60zjGFU",
     "alg": "ES256"
-},    {
+},
+    {
     "kty": "EC",
     "use": "enc",
     "crv": "P-256",
@@ -14,4 +17,7 @@
     "x": "7tbVbrrICrmBSTcZRYM8uK-yx5oub44H5qUr8Hlpn_4",
     "y": "RSBL5xAcEA2rZl7-KLj0iJ9an1IG20LrkiSTrh0eLBY",
     "alg": "ECDH-ES+A256KW"
-}  ]}
+}
+  ]
+}
+
