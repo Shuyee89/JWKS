@@ -20,7 +20,7 @@
     },
     {
       "use": "enc",
-      "alg": "ECDH-ES+A25KW",
+      "alg": "ECDH-ES+A256KW",
       "kty": "EC",
       "kid": "iop1ls7rt-Y1jmFXTWsxxb3TKKgxwB566V2pUVJdjVY",
       "crv": "P-256",
@@ -29,4 +29,3 @@
     }
   ]
 }
-
